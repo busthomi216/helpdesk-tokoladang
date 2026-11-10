@@ -38,7 +38,7 @@ Pada halaman dasboard pilih login sebagai **Penjual**
 - Pada halaman Detail Pesanan, muncul informasi untuk konfirmasi pesanan.
 - Isikan Estimasi Pengiriman.
 - Klik tombol Proses
-![Klik tombol proses](/images/pesanan/7.png)
+![Klik tombol proses](/images/pesanan/7ref.png)
 
 ### 7. Melanjutkan Pesanan
 - Setelah klik tombol Proses, muncul peringatan untuk melanjutkan pesanan atau tidak.
