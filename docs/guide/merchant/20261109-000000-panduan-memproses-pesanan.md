@@ -37,7 +37,6 @@ Pada halaman dasboard pilih login sebagai **Penjual**
 ### 6. Mengkonfirmasi Pesanan
 - Pada halaman Detail Pesanan, muncul informasi untuk konfirmasi pesanan.
 - Isikan Estimasi Pengiriman.
-- Pilih Metode Transfer
 - Klik tombol Proses
 ![Klik tombol proses](/images/pesanan/7.png)
 
